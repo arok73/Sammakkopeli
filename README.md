@@ -1,4 +1,4 @@
 # sammakkopeli
 Mobiilipeliohjelmointikurssin lopputyö
 
-![Alt text](img/sammakko.png?raw=true "Sammakkopeli")
+![Alt text](img/sammakko.jpg?raw=true "Sammakkopeli")
